@@ -1,6 +1,4 @@
 # 戎玮的Blog
 
-## 一周计划以及进度
-
-- [x] 创建博客 2021/02/05
-- [ ] 编写完成关于原型及原型链的博客 2021/02/06
+## 🐲 JavaScript
+- [原型和原型链](https://github.com/pengyw97/Blog/issues/1)
