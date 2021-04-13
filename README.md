@@ -14,3 +14,4 @@
 ## 🐼 手写API
 - [instanceof](https://github.com/pengyw97/Blog/issues/3)
 - [call，apply，bind，new](https://github.com/pengyw97/Blog/issues/6)
+- [Promise](https://github.com/pengyw97/Blog/issues/12)
