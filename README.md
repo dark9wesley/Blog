@@ -10,6 +10,7 @@
 - [继承的多种方式](https://github.com/pengyw97/Blog/issues/9)
 - [event loop](https://github.com/pengyw97/Blog/issues/10)
 - [异步编程](https://github.com/pengyw97/Blog/issues/11)
+- [函数柯里化](https://github.com/pengyw97/Blog/issues/13)
 
 ## 🐼 手写API
 - [instanceof](https://github.com/pengyw97/Blog/issues/3)
