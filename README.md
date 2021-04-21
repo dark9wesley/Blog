@@ -12,6 +12,7 @@
 - [异步编程](https://github.com/pengyw97/Blog/issues/11)
 - [函数柯里化](https://github.com/pengyw97/Blog/issues/13)
 - [V8的垃圾回收策略](https://github.com/pengyw97/Blog/issues/14)
+- [浮点数精度](https://github.com/pengyw97/Blog/issues/15)
 
 ## 🐼 手写API
 - [instanceof](https://github.com/pengyw97/Blog/issues/3)
