@@ -22,3 +22,4 @@
 ## 👺 HTTP  
 - [HTTP概述以及与HTTP有关的协议](https://github.com/pengyw97/Blog/issues/16)
 - [TCP/IP四层模型与OSI七层模型](https://github.com/pengyw97/Blog/issues/17)
+- [域名的秘密](https://github.com/pengyw97/Blog/issues/18)
