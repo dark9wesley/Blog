@@ -23,3 +23,5 @@
 - [HTTP概述以及与HTTP有关的协议](https://github.com/pengyw97/Blog/issues/16)
 - [TCP/IP四层模型与OSI七层模型](https://github.com/pengyw97/Blog/issues/17)
 - [域名的秘密](https://github.com/pengyw97/Blog/issues/18)
+- [HTTP报文、请求方法](https://github.com/pengyw97/Blog/issues/19)
+- [URI/URL，状态码，HTTP/1.1的特点和缺点](https://github.com/pengyw97/Blog/issues/20)
