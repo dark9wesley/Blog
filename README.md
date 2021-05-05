@@ -27,3 +27,4 @@
 - [URI/URL，状态码，HTTP/1.1的特点和缺点](https://github.com/pengyw97/Blog/issues/20)
 - [常用头部字段](https://github.com/pengyw97/Blog/issues/21)
 - [HTTPS](https://github.com/pengyw97/Blog/issues/22)
+- [HTTP/2](https://github.com/pengyw97/Blog/issues/23)
