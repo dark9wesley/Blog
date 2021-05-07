@@ -19,7 +19,7 @@
 - [call，apply，bind，new](https://github.com/pengyw97/Blog/issues/6)
 - [Promise](https://github.com/pengyw97/Blog/issues/12)
 
-## 👺 HTTP  
+## 👺 网络  
 - [HTTP概述以及与HTTP有关的协议](https://github.com/pengyw97/Blog/issues/16)
 - [TCP/IP四层模型与OSI七层模型](https://github.com/pengyw97/Blog/issues/17)
 - [域名的秘密](https://github.com/pengyw97/Blog/issues/18)
