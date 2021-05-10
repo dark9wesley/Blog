@@ -20,11 +20,9 @@
 - [Promise](https://github.com/pengyw97/Blog/issues/12)
 
 ## 👺 网络  
-- [HTTP概述以及与HTTP有关的协议](https://github.com/pengyw97/Blog/issues/16)
-- [TCP/IP四层模型与OSI七层模型](https://github.com/pengyw97/Blog/issues/17)
-- [域名的秘密](https://github.com/pengyw97/Blog/issues/18)
-- [HTTP报文、请求方法](https://github.com/pengyw97/Blog/issues/19)
-- [URI/URL，状态码，HTTP/1.1的特点和缺点](https://github.com/pengyw97/Blog/issues/20)
-- [常用头部字段](https://github.com/pengyw97/Blog/issues/21)
-- [HTTPS](https://github.com/pengyw97/Blog/issues/22)
-- [HTTP/2](https://github.com/pengyw97/Blog/issues/23)
+- [TCP/IP四层模型与OSI七层模型](https://github.com/pengyw97/Blog/issues/16)
+- [URI和DNS](https://github.com/pengyw97/Blog/issues/17)
+- [HTTP系列-基础篇](https://github.com/pengyw97/Blog/issues/18)
+- [HTTP系列-报文篇](https://github.com/pengyw97/Blog/issues/19)
+- [HTTP系列-HTTPS篇](https://github.com/pengyw97/Blog/issues/20)
+- [HTTP系列-HTTP/2](https://github.com/pengyw97/Blog/issues/21)
