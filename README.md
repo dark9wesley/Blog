@@ -25,4 +25,4 @@
 - [HTTP系列-基础篇](https://github.com/pengyw97/Blog/issues/18)
 - [HTTP系列-报文篇](https://github.com/pengyw97/Blog/issues/19)
 - [HTTP系列-HTTPS篇](https://github.com/pengyw97/Blog/issues/20)
-- [HTTP系列-HTTP/2](https://github.com/pengyw97/Blog/issues/24)
+- [HTTP系列-HTTP/2篇](https://github.com/pengyw97/Blog/issues/24)
