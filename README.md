@@ -33,5 +33,5 @@
 - [CSRF和XSS](https://github.com/pengyw97/Blog/issues/27)
 
 ## 🥝 浏览器
-- [浏览器缓存机制](https://github.com/pengyw97/Blog/issues/28)
+- [浏览器缓存策略](https://github.com/pengyw97/Blog/issues/28)
 
