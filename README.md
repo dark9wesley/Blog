@@ -15,6 +15,7 @@
 - [V8的垃圾回收策略](https://github.com/pengyw97/Blog/issues/14)
 - [浮点数精度](https://github.com/pengyw97/Blog/issues/15)
 - [防抖与节流](https://github.com/pengyw97/Blog/issues/29)
+- [模块化的历程](https://github.com/pengyw97/Blog/issues/32)
 
 ## 🐼 手写API
 - [instanceof](https://github.com/pengyw97/Blog/issues/3)
