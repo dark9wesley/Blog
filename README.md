@@ -46,5 +46,6 @@
 ## 🐕 Vue
 
 ## 🐳 状态管理
+- [redux源码分析(1) — createStore](https://github.com/pengyw97/Blog/issues/33)
 
 
