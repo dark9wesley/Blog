@@ -47,5 +47,7 @@
 
 ## 🐳 状态管理
 - [redux源码分析(1) — createStore](https://github.com/pengyw97/Blog/issues/33)
+- [redux源码分析(2) — combineReducers](https://github.com/pengyw97/Blog/issues/34)
+- [redux源码分析(3) — compose](https://github.com/pengyw97/Blog/issues/35)
 
 
