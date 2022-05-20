@@ -50,5 +50,6 @@
 - [redux源码分析(2) — combineReducers](https://github.com/pengyw97/Blog/issues/34)
 - [redux源码分析(3) — compose](https://github.com/pengyw97/Blog/issues/35)
 - [redux源码分析(4) — applyMiddleware](https://github.com/pengyw97/Blog/issues/36)
+- [redux源码分析(5) — bindActionCreators](https://github.com/pengyw97/Blog/issues/37)
 
 
