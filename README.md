@@ -54,6 +54,6 @@
 - [初识webpack](https://github.com/pengyw97/Blog/issues/38)
 
 ## 🍙 设计模式
-- [控制反转和依赖注入](https://github.com/pengyw97/Blog/issues/36)
+- [控制反转和依赖注入](https://github.com/pengyw97/Blog/issues/39)
 
 
