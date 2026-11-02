@@ -15,7 +15,7 @@
 - [防抖与节流](https://github.com/pengyw97/Blog/issues/29)
 - [模块化的历程](https://github.com/pengyw97/Blog/issues/32)
 
-## 🐼 手写API
+###  🐼 手写API
 - [instanceof](https://github.com/pengyw97/Blog/issues/3)
 - [call，apply，bind，new](https://github.com/pengyw97/Blog/issues/6)
 - [Promise](https://github.com/pengyw97/Blog/issues/12)
@@ -36,12 +36,8 @@
 ## 🥝 浏览器
 - [浏览器缓存策略](https://github.com/pengyw97/Blog/issues/28)
 
-
 ## 🐈 React
 - [reacr的理念和架构](https://github.com/pengyw97/Blog/issues/31)
-
-
-## 🐕 Vue
 
 ## 🐳 状态管理
 - [redux源码分析(1) — createStore](https://github.com/pengyw97/Blog/issues/33)
@@ -55,5 +51,7 @@
 
 ## 🍙 设计模式
 - [控制反转和依赖注入](https://github.com/pengyw97/Blog/issues/39)
+
+## ☕️ JAVA
 
 
