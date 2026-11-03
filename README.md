@@ -56,3 +56,4 @@
 - [JAVA概述](https://github.com/dark9wesley/Blog/issues/40)
 - [JDK、JVM、JRE](https://github.com/dark9wesley/Blog/issues/41)
 - [数据类型的转换](https://github.com/dark9wesley/Blog/issues/42)
+- [数据类型的缓存池](https://github.com/dark9wesley/Blog/issues/43)
