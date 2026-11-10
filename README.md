@@ -58,4 +58,5 @@
 - [数据类型的转换](https://github.com/dark9wesley/Blog/issues/42)
 - [数据类型的缓存池](https://github.com/dark9wesley/Blog/issues/43)
 - [数组](https://github.com/dark9wesley/Blog/issues/44)
-- [字符串](https://github.com/dark9wesley/Blog/issues/44)
+- [字符串](https://github.com/dark9wesley/Blog/issues/45)
+- [Java面向对象编程（一）：类、对象与成员](https://github.com/dark9wesley/Blog/issues/46)
